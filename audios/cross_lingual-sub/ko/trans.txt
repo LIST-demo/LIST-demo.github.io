@@ -1,0 +1,5 @@
+zh_Side1_nts1_patientH_101-ko-0019	중학을 졸업한 뒤에는 이젠 어머니를 위하여 그는 학업을 중지하지 않을 수가 없었습니다.	年轻人，来这边吧，别打扰那个可怜人了…我跟你说几句……
+en_vo_YYWQ001_2_king_03-ko-0036	그리고 그의 방문 앞까지 왔을 때 소곤소곤 하는 소리에 그는 멈칫 서서 들었다.	Dreams and nobility are my lifelong pursuits, I will not give them up for you.
+ja_vo_card_yaeMiko_endOfGame_win_01-ko-0072	그는 이런 생각에 얼굴이 화끈 달았다.	妾のほうが上手じゃったのう。悪くない遊びじゃ、もう一勝負やるとしよう。
+common_voice_de_27064013-ko-0116	오늘은 좌우간 끝을 내리라고 결심하는 빛을 신철이도 짐작하였다.	Ich frage mich, was verbessert werden muss.
+common_voice_fr_37375708-ko-0139	예수교 신자인 원재는 대합실 문 밖에 가 꿇어 엎드려 정성껏 기도를 올리고 있다.	Ils tournent en soutien à l'album avec Chevelle, Puddle of Mudd, et Sevendust.

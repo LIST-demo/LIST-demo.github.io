@@ -1,0 +1,5 @@
+zh_vo_dialog_LYAQ206_keqing_01-de-0017	Unterhalb des Schlosses Hirschstein befindet sich eine Bootsanlegestelle.	…你这家伙，刚才的发言，究竟是为了耍帅，还是真的那么无欲无求呢？
+en_Side1_nts1_patientH_101-de-0019	Als Erstes möchte ich Herrn Martin zu dem vorzüglichen Ergebnis beglückwünschen.	Come over here, child. It's best to leave that poor lady in peace. Let me explain...
+ja_chapter4_4_gongmin4_102-de-0044	Der dreifache Olympiasieger und sechsfache Weltmeister gehört zu den erfolgreichsten Sportlern seines Landes.	美しきメイデンよ…どうすれば私はあなたの心を手に入れられるのでしょうか？
+ko_vo_DCEQ001_4_xiangling_03-de-0070	Bald hat der Text die Marke von zehntausend Zeilen durchbrochen.	맞아요, 나중에 오면 저희 가게에도 자주 들러서 맛있는 거 먹으면서 신나게 놀다 가요!
+common_voice_fr_37851954-de-0075	Es gelang ihm, aus dem Gefängnis zu entkommen und unterzutauchen.	Il est notamment le premier catholique à entrer dans un gouvernement néerlandais.

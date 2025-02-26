@@ -1,0 +1,5 @@
+en_vo_AHLQ001_3_alhaitham_33-zh-0004	他曾经以为，要在克劳德身上获取杰诺瓦细胞。	Now, try to recall things you care about. They don't need to be related to this case.
+ja_vo_EQHDJ403_22_hutaoyeye_02-zh-0036	绝大多数引擎都能准确控制燃油，进排气，油温，水温及转速等。	生まれるべき時に生まれ、死すべき時に死す——小桃、お前のその「時」はまだ来てないぞ。
+ko_vo_dialog_SHLQ003_qiqi_07-zh-0077	良药苦口利于病，忠言逆耳利于行。	위험해지면, 치치가 사람들을 지켜줘야 돼요
+common_voice_de_40985021-zh-0091	周围响起一片赞叹，太棒了，火柴真好玩，妈妈我也要。	Während des Studiums begann Rahe mit dem Schreiben von Kurzgeschichten.
+common_voice_fr_37903497-zh-0142	大大的眼睛望着镜头闪闪发亮，肉肉的小胳膊小腿也惹人怜爱。	Le droit est créé seulement par les et décrets.

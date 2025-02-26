@@ -1,0 +1,5 @@
+zh_vo_ambient_w2_greeting_baodating_101-fr-0016	C'est d'ailleurs Dieu qui à travers un ange incite Corneille à aller rencontrer Pierre.	不要因为我是娇花而怜惜我！
+en_chapter1_2_spectatorA_201-fr-0021	Le creux est un paramètre important du réglage d'une voile.	Did you hear!? There's a new fighter at the club! He knocked the last champ's teeth out!
+ja_chapter3_20_caipan_107-fr-0045	Les différentes épreuves sont le simple et double messieurs, simple et double dames.	どんなに長い戦いだろうと、あなたは耐え抜いてきた。その強敵を倒せば、苦労の末に成功を収めることができるわ！
+ko_vo_CNLQ001_10_jhuba_01-fr-0069	C'est une plante grimpante qui peut se montrer par ailleurs très envahissante.	잠깐, 사막에 가려는 거지? 다시 진지하게 생각해보는 게 좋을 거다
+common_voice_de_39565525-fr-0080	Tant qu'aucun ministre-président n'est investi, il gère les affaires courantes.	Anschließend promovierte er zum Thema betriebliches Innovationsmanagement.
